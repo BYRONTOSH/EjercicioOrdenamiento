@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+
+// ESTAS SON DELARACIONES DE FUNCIONES
 void ingresar(int a[],int n);
 void imprimir(int a[],int n);
 void burbuja(int a[],int n);
